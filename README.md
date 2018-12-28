@@ -13,7 +13,7 @@
 * 接続しているUSBデバイス: 有線キーボード
 
 ## 参考
-* ロボットシステム学第８回講義で扱ったLEDをGPIOピンで制御するデバイスドライバを参考にしました。
+* ロボットシステム学第8回講義資料
 https://github.com/ryuichiueda/robosys_device_drivers.git
 
 ## 実行方法
