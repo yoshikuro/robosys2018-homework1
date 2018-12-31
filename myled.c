@@ -7,7 +7,7 @@
 
 MODULE_AUTHOR("Takuya Yoshimi");
 MODULE_DESCRIPTION("Confirmation for USB_device");
-MODULE_LICENSE("GPL");
+MODULE_LICENSE("MIT");
 MODULE_VERSION("0.1.1");
 
 static dev_t dev;
